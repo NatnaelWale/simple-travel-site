@@ -1,0 +1,19 @@
+p {
+    font-family: serif;
+}
+
+th, td {
+    border: 1px solid #dcdbdb;
+    padding: 8px;
+}
+.table {
+    border-collapse: collapse;
+    width: 85%;
+}
+.table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #1d7c20;
+    color: white;
+}
